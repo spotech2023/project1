@@ -1,1 +1,1 @@
-This is a single sample of code.
+This is an example
