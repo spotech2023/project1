@@ -1,1 +1,1 @@
-This is a different line.
+This is an example of code
